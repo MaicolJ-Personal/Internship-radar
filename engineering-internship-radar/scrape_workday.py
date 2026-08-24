@@ -36,7 +36,7 @@ REQUEST_DELAY_SECONDS = 1.0  # be polite between requests
 MAX_PAGES_PER_COMPANY = 25  # safety cap (500 postings) so a bug can't loop forever
 
 INTERN_PATTERN = re.compile(r"\bintern(ship)?\b", re.IGNORECASE)
-INTERNATIONAL_PATTERN = re.compile(r"\binternational\b", re.IGNORECASE)
+EXCLUDE_PATTERN = re.compile(r"\b(international|internal)\b", re.IGNORECASE)
 
 HEADERS = {
     "Content-Type": "application/json",
@@ -45,9 +45,7 @@ HEADERS = {
 
 
 def is_internship(title: str) -> bool:
-    return bool(INTERN_PATTERN.search(title)) and not bool(
-        INTERNATIONAL_PATTERN.search(title)
-    )
+    return bool(INTERN_PATTERN.search(title)) and not bool(EXCLUDE_PATTERN.search(title))
 
 
 def fetch_company_postings(company: dict, session: requests.Session) -> tuple[list[dict], list[str]]:
@@ -77,7 +75,7 @@ def fetch_company_postings(company: dict, session: requests.Session) -> tuple[li
             "appliedFacets": {},
             "limit": PAGE_SIZE,
             "offset": offset,
-            "searchText": "",
+            "searchText": "intern",
         }
         resp = session.post(cxs_url, headers=post_headers, json=body, timeout=15)
         resp.raise_for_status()
