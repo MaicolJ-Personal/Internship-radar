@@ -38,6 +38,39 @@ MAX_PAGES_PER_COMPANY = 25  # safety cap (500 postings) so a bug can't loop fore
 INTERN_PATTERN = re.compile(r"\bintern(ship)?\b", re.IGNORECASE)
 EXCLUDE_PATTERN = re.compile(r"\b(international|internal)\b", re.IGNORECASE)
 
+# A "menagerie" of engineering-coded words. A title has to contain "intern"
+# AND one of these to survive — this is what keeps out the Finance/HR/
+# Marketing/Sales interns that a plain "intern" match lets through at
+# companies with a thousand-plus open postings.
+ENGINEERING_KEYWORDS = [
+    # general engineering language
+    "engineer", "engineering", "technical", "technology", "r&d", "r & d",
+    "research and development", "prototype", "prototyping",
+    # mechanical / aerospace
+    "mechanical", "mechatronic", "aerospace", "propulsion", "thermal",
+    "structural", "materials", "manufacturing", "industrial", "robotics",
+    "automation", "cad", "cae", "reliability",
+    # electrical / hardware
+    "electrical", "electronic", "embedded", "firmware", "circuit",
+    "semiconductor", "silicon", "pcb", "controls", "power systems",
+    "hardware",
+    # civil
+    "civil", "construction", "infrastructure", "geotechnical", "surveying",
+    # computer / software
+    "software", "computer science", "programming", "developer", "coding",
+    "systems engineer", "data engineer", "machine learning", "cybersecurity",
+    "cloud engineer", "devops", "network engineer", "full stack", "backend",
+    "front end", "frontend",
+    # biotech / medtech
+    "biomedical", "bioengineering", "biotech", "medical device",
+    "clinical engineering", "chemical engineering", "process engineering",
+    "quality engineering", "quality", "validation", "test engineering",
+]
+ENGINEERING_PATTERN = re.compile(
+    r"\b(?:" + "|".join(re.escape(k) for k in ENGINEERING_KEYWORDS) + r")",
+    re.IGNORECASE,
+)
+
 HEADERS = {
     "Content-Type": "application/json",
     "User-Agent": "intern-radar-workday-scraper/1.0 (personal internship search tool)",
@@ -48,7 +81,13 @@ def is_internship(title: str) -> bool:
     return bool(INTERN_PATTERN.search(title)) and not bool(EXCLUDE_PATTERN.search(title))
 
 
-def fetch_company_postings(company: dict, session: requests.Session) -> tuple[list[dict], list[str]]:
+def is_engineering_flavored(title: str) -> bool:
+    return bool(ENGINEERING_PATTERN.search(title))
+
+
+def fetch_company_postings(
+    company: dict, session: requests.Session
+) -> tuple[list[dict], list[str], int]:
     """Fetch and filter internship postings for a single company."""
     cxs_url = (
         f"https://{company['tenant']}.{company['wd_host']}.myworkdayjobs.com"
@@ -68,6 +107,7 @@ def fetch_company_postings(company: dict, session: requests.Session) -> tuple[li
 
     postings = []
     sample_titles = []
+    non_engineering_excluded = 0
     offset = 0
 
     for _ in range(MAX_PAGES_PER_COMPANY):
@@ -97,6 +137,9 @@ def fetch_company_postings(company: dict, session: requests.Session) -> tuple[li
                 sample_titles.append(title)
             if not is_internship(title):
                 continue
+            if not is_engineering_flavored(title):
+                non_engineering_excluded += 1
+                continue
             external_path = job.get("externalPath", "")
             postings.append(
                 {
@@ -119,7 +162,7 @@ def fetch_company_postings(company: dict, session: requests.Session) -> tuple[li
 
         time.sleep(REQUEST_DELAY_SECONDS)
 
-    return postings, sample_titles
+    return postings, sample_titles, non_engineering_excluded
 
 
 def main():
@@ -131,8 +174,15 @@ def main():
     for company in companies:
         label = company["label"]
         try:
-            postings, sample_titles = fetch_company_postings(company, session)
+            postings, sample_titles, non_engineering_excluded = fetch_company_postings(
+                company, session
+            )
             print(f"[ok]   {label}: {len(postings)} internship posting(s)")
+            if non_engineering_excluded:
+                print(
+                    f"       filtered out {non_engineering_excluded} intern posting(s) "
+                    "that didn't look engineering-flavored"
+                )
             if not postings and sample_titles:
                 print(f"       no titles matched 'intern' — sample titles seen: {sample_titles}")
             elif not postings and not sample_titles:
