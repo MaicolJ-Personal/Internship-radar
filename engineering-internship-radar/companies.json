@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Boeing",
+    "category": "mechanical",
+    "tenant": "boeing",
+    "wd_host": "wd1",
+    "site": "INTERN",
+    "base_url": "https://boeing.wd1.myworkdayjobs.com/en-US/INTERN"
+  },
+  {
+    "label": "RTX (Raytheon)",
+    "category": "mechanical",
+    "tenant": "globalhr",
+    "wd_host": "wd5",
+    "site": "rec_rtx_ext_gateway",
+    "base_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway"
+  },
+  {
+    "label": "HNTB",
+    "category": "civil",
+    "tenant": "hntb",
+    "wd_host": "wd5",
+    "site": "hntb_careers",
+    "base_url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers"
+  },
+  {
+    "label": "Medtronic",
+    "category": "biotech",
+    "tenant": "medtronic",
+    "wd_host": "wd1",
+    "site": "MedtronicCareers",
+    "base_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers"
+  },
+  {
+    "label": "Stryker",
+    "category": "biotech",
+    "tenant": "stryker",
+    "wd_host": "wd1",
+    "site": "StrykerCareers",
+    "base_url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers"
+  }
+]
