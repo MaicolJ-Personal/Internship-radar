@@ -50,14 +50,26 @@ def is_internship(title: str) -> bool:
     )
 
 
-def fetch_company_postings(company: dict) -> list[dict]:
+def fetch_company_postings(company: dict, session: requests.Session) -> tuple[list[dict], list[str]]:
     """Fetch and filter internship postings for a single company."""
     cxs_url = (
         f"https://{company['tenant']}.{company['wd_host']}.myworkdayjobs.com"
         f"/wday/cxs/{company['tenant']}/{company['site']}/jobs"
     )
 
+    # Some Workday tenants sit behind bot protection that returns a
+    # non-empty "total" but an empty jobPostings array unless the request
+    # carries a session cookie from having loaded the careers page first.
+    # Visiting the page once (per company) picks that cookie up.
+    try:
+        session.get(company["base_url"], headers=HEADERS, timeout=15)
+    except requests.RequestException:
+        pass  # if this fails, we still try the API call below as-is
+
+    post_headers = {**HEADERS, "Referer": company["base_url"]}
+
     postings = []
+    sample_titles = []
     offset = 0
 
     for _ in range(MAX_PAGES_PER_COMPANY):
@@ -67,7 +79,7 @@ def fetch_company_postings(company: dict) -> list[dict]:
             "offset": offset,
             "searchText": "",
         }
-        resp = requests.post(cxs_url, headers=HEADERS, json=body, timeout=15)
+        resp = session.post(cxs_url, headers=post_headers, json=body, timeout=15)
         resp.raise_for_status()
         data = resp.json()
 
@@ -83,6 +95,8 @@ def fetch_company_postings(company: dict) -> list[dict]:
 
         for job in job_postings:
             title = job.get("title", "")
+            if len(sample_titles) < 5:
+                sample_titles.append(title)
             if not is_internship(title):
                 continue
             external_path = job.get("externalPath", "")
@@ -107,19 +121,27 @@ def fetch_company_postings(company: dict) -> list[dict]:
 
         time.sleep(REQUEST_DELAY_SECONDS)
 
-    return postings
+    return postings, sample_titles
 
 
 def main():
     companies = json.loads(COMPANIES_FILE.read_text())
     all_postings = []
     failures = []
+    session = requests.Session()
 
     for company in companies:
         label = company["label"]
         try:
-            postings = fetch_company_postings(company)
+            postings, sample_titles = fetch_company_postings(company, session)
             print(f"[ok]   {label}: {len(postings)} internship posting(s)")
+            if not postings and sample_titles:
+                print(f"       no titles matched 'intern' — sample titles seen: {sample_titles}")
+            elif not postings and not sample_titles:
+                print(
+                    "       API reported postings but returned none — likely still blocked "
+                    "(bot protection); check manually in a browser if this persists"
+                )
             all_postings.extend(postings)
         except requests.RequestException as e:
             print(f"[fail] {label}: {e}", file=sys.stderr)
