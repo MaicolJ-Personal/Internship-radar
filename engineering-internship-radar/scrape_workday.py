@@ -71,6 +71,12 @@ def fetch_company_postings(company: dict) -> list[dict]:
         resp.raise_for_status()
         data = resp.json()
 
+        if offset == 0:
+            total_reported = data.get("total", "?")
+            print(
+                f"       {company['label']}: API reports {total_reported} total posting(s) at this site"
+            )
+
         job_postings = data.get("jobPostings", [])
         if not job_postings:
             break
