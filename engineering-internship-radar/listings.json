@@ -6,7 +6,7 @@
     "title": "Boeing Summer 2027 Internship Program (Paid) \u2013 Engineering",
     "location": "66 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/INTERN/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Engineering_JR2026505093",
-    "updated_at": "2026-10-21T07:35:59.746644+00:00",
+    "updated_at": "2026-10-21T13:45:24.617156+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -17,7 +17,7 @@
     "title": "Boeing Summer 2027 Internship Program (Paid) - Facilities Engineering",
     "location": "11 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Facilities-Engineering_JR2026521015",
-    "updated_at": "2026-10-21T07:35:59.746694+00:00",
+    "updated_at": "2026-10-21T13:45:24.617223+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -28,7 +28,7 @@
     "title": "Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern",
     "location": "66 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/INTERN/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439",
-    "updated_at": "2026-10-21T07:35:59.746737+00:00",
+    "updated_at": "2026-10-21T13:45:24.617273+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -39,7 +39,7 @@
     "title": "Boeing Summer 2027 Internship Program (Paid) \u2013 Quality Specialist",
     "location": "6 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/INTERN/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Specialist_JR2026520392",
-    "updated_at": "2026-10-21T07:35:59.746756+00:00",
+    "updated_at": "2026-10-21T13:45:24.617294+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -50,7 +50,51 @@
     "title": "Boeing Summer 2027 Internship Program (Paid) \u2013 Information Digital Technology & Security (IDT&S)",
     "location": "17 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791",
-    "updated_at": "2026-10-21T07:36:01.057609+00:00",
+    "updated_at": "2026-10-21T13:45:26.005919+00:00",
+    "department": "",
+    "category": "mechanical"
+  },
+  {
+    "id": "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237",
+    "source": "workday",
+    "company": "RTX (Raytheon)",
+    "title": "Mechanical Engineer Intern - Test Equipment",
+    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237",
+    "updated_at": "2026-10-21T13:45:27.826582+00:00",
+    "department": "",
+    "category": "mechanical"
+  },
+  {
+    "id": "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282",
+    "source": "workday",
+    "company": "RTX (Raytheon)",
+    "title": "Software Engineer Intern",
+    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282",
+    "updated_at": "2026-10-21T13:45:27.826602+00:00",
+    "department": "",
+    "category": "mechanical"
+  },
+  {
+    "id": "workday:globalhr:/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283",
+    "source": "workday",
+    "company": "RTX (Raytheon)",
+    "title": "Electrical Engineer Intern",
+    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283",
+    "updated_at": "2026-10-21T13:45:27.826612+00:00",
+    "department": "",
+    "category": "mechanical"
+  },
+  {
+    "id": "workday:globalhr:/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127",
+    "source": "workday",
+    "company": "RTX (Raytheon)",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "location": "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127",
+    "updated_at": "2026-10-21T13:45:27.826624+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -61,7 +105,7 @@
     "title": "2027 Summer Intern - Systems Engineering - Onsite",
     "location": "US-CA-EL SEGUNDO-E04 ~ 2006 E El Segundo Blvd ~ BLDG E04",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Systems-Engineering---Onsite_01881121",
-    "updated_at": "2026-10-21T07:36:02.838065+00:00",
+    "updated_at": "2026-10-21T13:45:29.116327+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -72,7 +116,7 @@
     "title": "Mechanical Engineering Intern (Summer 2027)",
     "location": "US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Mechanical-Engineering-Intern--Summer-2027-_01882896",
-    "updated_at": "2026-10-21T07:36:02.838086+00:00",
+    "updated_at": "2026-10-21T13:45:29.116345+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -83,7 +127,7 @@
     "title": "Software Engineering Intern (Summer 2027)",
     "location": "US-MD-ANNAPOLIS-905 ~ 2551 Riva Rd ~ BLDG 905",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939",
-    "updated_at": "2026-10-21T07:36:02.838102+00:00",
+    "updated_at": "2026-10-21T13:45:29.116358+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -94,7 +138,7 @@
     "title": "Electrical Engineering Intern (Summer 2027)",
     "location": "US-CA-EL SEGUNDO-E04 ~ 2006 E El Segundo Blvd ~ BLDG E04",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Electrical-Engineering-Intern--Summer-2027-_01883021",
-    "updated_at": "2026-10-21T07:36:04.130006+00:00",
+    "updated_at": "2026-10-21T13:45:30.440457+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -105,7 +149,7 @@
     "title": "Intern: Industrial Engineering (Summer 2027)",
     "location": "US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Industrial-Engineering--Summer-2027-_01868424-1",
-    "updated_at": "2026-10-21T07:36:04.130029+00:00",
+    "updated_at": "2026-10-21T13:45:30.440483+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -116,7 +160,7 @@
     "title": "Electrical Test Engineering Intern (Summer 2027)",
     "location": "US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Electrical-Test-Engineering-Intern--Summer-2027-_01881562",
-    "updated_at": "2026-10-21T07:36:04.130037+00:00",
+    "updated_at": "2026-10-21T13:45:31.772220+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -127,7 +171,7 @@
     "title": "Mechanical Engineering Intern (Summer 2027)",
     "location": "US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01883423",
-    "updated_at": "2026-10-21T07:36:04.130049+00:00",
+    "updated_at": "2026-10-21T13:45:31.772248+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -138,7 +182,7 @@
     "title": "Electrical Components Engineer Intern (Summer 2027)(Onsite)",
     "location": "US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761",
-    "updated_at": "2026-10-21T07:36:05.436179+00:00",
+    "updated_at": "2026-10-21T13:45:31.772255+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -149,7 +193,7 @@
     "title": "Turbine Aero-Thermal Systems Intern (Summer 2027) (Onsite)",
     "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Turbine-Aero-Thermal-Systems-Intern--Summer-2027---Onsite-_01882307",
-    "updated_at": "2026-10-21T07:36:06.727942+00:00",
+    "updated_at": "2026-10-21T13:45:33.133233+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -160,7 +204,7 @@
     "title": "Software Engineering Intern (Summer 2027)",
     "location": "US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026",
-    "updated_at": "2026-10-21T07:36:06.727968+00:00",
+    "updated_at": "2026-10-21T13:45:34.447657+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -171,7 +215,7 @@
     "title": "Systems Engineering Intern, Weather Radar",
     "location": "US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern--Weather-Radar_01876489",
-    "updated_at": "2026-10-21T07:36:06.727978+00:00",
+    "updated_at": "2026-10-21T13:45:34.447679+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -182,7 +226,7 @@
     "title": "Electrical Design Engineer Intern (Summer 2027)",
     "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254",
-    "updated_at": "2026-10-21T07:36:09.347916+00:00",
+    "updated_at": "2026-10-21T13:45:35.749834+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -193,7 +237,7 @@
     "title": "Electrical Design Intern (Summer 2027)",
     "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Intern--Summer-2027-_01876761",
-    "updated_at": "2026-10-21T07:36:09.347939+00:00",
+    "updated_at": "2026-10-21T13:45:35.749851+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -204,7 +248,7 @@
     "title": "Mechanical Design Intern (Summer 2027) (Onsite)",
     "location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Mechanical-Design-Intern--Summer-2027---Onsite-_01864899",
-    "updated_at": "2026-10-21T07:36:09.347993+00:00",
+    "updated_at": "2026-10-21T13:45:37.050341+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -215,7 +259,7 @@
     "title": "Project Engineering Intern (Summer 2027)(Onsite)",
     "location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Project-Engineering-Intern--Summer-2027--Onsite-_01872630",
-    "updated_at": "2026-10-21T07:36:10.626780+00:00",
+    "updated_at": "2026-10-21T13:45:37.050361+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -226,7 +270,7 @@
     "title": "Systems Engineering Intern (Summer 2027)",
     "location": "US-CA-SAN DIEGO-SD1 ~ 8650 Balboa Ave ~ SAN ANTONIO BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01880911",
-    "updated_at": "2026-10-21T07:36:10.626969+00:00",
+    "updated_at": "2026-10-21T13:45:40.200786+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -237,7 +281,7 @@
     "title": "Stage - Hiver 2027 - G\u00e9nie m\u00e9canique \u2013 Installations d\u2019essais / Internship - Winter 2027 - Mechanical Engineering \u2013 Test Facilities",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gnie-mcanique---Installations-d-essais---Internship---Winter-2027---Mechanical-Engineering---Test-Facilities_01872695",
-    "updated_at": "2026-10-21T07:36:13.219683+00:00",
+    "updated_at": "2026-10-21T13:45:41.492030+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -248,7 +292,7 @@
     "title": "Software Engineering Intern (Summer 2027)",
     "location": "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
-    "updated_at": "2026-10-21T07:36:13.219711+00:00",
+    "updated_at": "2026-10-21T13:45:41.492055+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -259,7 +303,7 @@
     "title": "Material/Process Engineering Intern (Summer 2027)(Onsite)",
     "location": "US-WA-SPOKANE-11135 ~ 11135 W Westbow Ln ~ WESTBOW",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01882373",
-    "updated_at": "2026-10-21T07:36:13.219727+00:00",
+    "updated_at": "2026-10-21T13:45:41.492070+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -270,7 +314,7 @@
     "title": "Stage - Hiver 2027 - \u00c9tudiant en g\u00e9nie des mat\u00e9riaux (8 Mois) / Internship - Winter 2027 - Materials Engineering (8 Months)",
     "location": "CA-QC-LONGUEUIL-AY ~ 1000 Blvd Marie-Victorin ~ AY BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---tudiant-en-gnie-des-matriaux--8-Mois----Internship---Winter-2027---Materials-Engineering--8-Months-_01868778-1",
-    "updated_at": "2026-10-21T07:36:14.518734+00:00",
+    "updated_at": "2026-10-21T13:45:42.793610+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -281,7 +325,7 @@
     "title": "Quality Engineering Intern (Summer 2027)",
     "location": "US-CA-FAIRFIELD-3530 ~ 3530 Branscombe Rd ~ BRANSCOMBE",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-FAIRFIELD-3530--3530-Branscombe-Rd--BRANSCOMBE/Quality-Engineering-Intern--Summer-2027-_01882706",
-    "updated_at": "2026-10-21T07:36:17.109990+00:00",
+    "updated_at": "2026-10-21T13:45:45.453115+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -292,7 +336,7 @@
     "title": "Quality Assurance Intern (Summer 2027)",
     "location": "US-CT-CHESHIRE-250 ~ 250 Knotter Dr ~ GOODRICH CORP",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-CHESHIRE-250--250-Knotter-Dr--GOODRICH-CORP/Quality-Assurance-Intern--Summer-2027-_01882553",
-    "updated_at": "2026-10-21T07:36:17.110010+00:00",
+    "updated_at": "2026-10-21T13:45:45.453136+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -303,7 +347,7 @@
     "title": "Quality Engineering Intern (Summer 2027)",
     "location": "US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Quality-Engineering-Intern--Summer-2027-_01882452",
-    "updated_at": "2026-10-21T07:36:17.110017+00:00",
+    "updated_at": "2026-10-21T13:45:46.812699+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -314,7 +358,7 @@
     "title": "Product Quality Engineering Intern (Summer 2027)",
     "location": "US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Product-Quality-Engineering-Intern--Summer-2027-_01882574",
-    "updated_at": "2026-10-21T07:36:17.110024+00:00",
+    "updated_at": "2026-10-21T13:45:46.812723+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -325,7 +369,7 @@
     "title": "Quality Engineering Intern (Summer 2027)",
     "location": "US-NH-DURHAM-121 ~ 121 Technology Dr ~ BLDG 125",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NH-DURHAM-121--121-Technology-Dr--BLDG-125/Quality-Engineering-Intern--Summer-2027-_01882570",
-    "updated_at": "2026-10-21T07:36:17.110029+00:00",
+    "updated_at": "2026-10-21T13:45:46.812731+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -336,7 +380,7 @@
     "title": "Quality Engineering Intern (Summer 2027)",
     "location": "US-IA-CORALVILLE-155 ~ 2855 Heartland Dr ~ HEARTLAND BLDG 155",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Quality-Engineering-Intern--Summer-2027-_01882628",
-    "updated_at": "2026-10-21T07:36:17.110035+00:00",
+    "updated_at": "2026-10-21T13:45:46.812738+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -347,7 +391,7 @@
     "title": "Metrology Engineering Intern (Summer 2027)",
     "location": "US-IA-CEDAR RAPIDS-123 ~ 350 Collins Rd NE ~ BLDG 123",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-123--350-Collins-Rd-NE--BLDG-123/Metrology-Engineering-Intern--Summer-2027-_01882625",
-    "updated_at": "2026-10-21T07:36:17.110040+00:00",
+    "updated_at": "2026-10-21T13:45:46.812746+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -358,7 +402,7 @@
     "title": "Summer 2027 RF Systems Engineer Intern - Onsite",
     "location": "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963",
-    "updated_at": "2026-10-21T07:36:22.344953+00:00",
+    "updated_at": "2026-10-21T13:45:51.577319+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -369,7 +413,7 @@
     "title": "Systems Engineering Intern",
     "location": "US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697",
-    "updated_at": "2026-10-21T07:36:22.344981+00:00",
+    "updated_at": "2026-10-21T13:45:51.577350+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -380,7 +424,7 @@
     "title": "Electrical Engineering Intern (Summer 2027)(Onsite)",
     "location": "US-CA-GOLETA-B01 ~ 6825 Cortona Dr ~ BLDG B01",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882355",
-    "updated_at": "2026-10-21T07:36:26.579319+00:00",
+    "updated_at": "2026-10-21T13:45:55.603897+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -391,7 +435,7 @@
     "title": "Additive Manufacturing & Process Engineering Intern",
     "location": "SG-01-SINGAPORE-039 CARE ~ 39 Changi N Cres ~ 39 CHANGI N CRES-039 CARE",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/SG-01-SINGAPORE-039-CARE--39-Changi-N-Cres--39-CHANGI-N-CRES-039-CARE/Additive-Manufacturing---Process-Engineering-Intern_01882459",
-    "updated_at": "2026-10-21T07:36:27.886917+00:00",
+    "updated_at": "2026-10-21T13:45:57.094770+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -402,7 +446,7 @@
     "title": "Manufacturing Ops Intern (Summer 2027) (Onsite)",
     "location": "US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Ops-Intern--Summer-2027---Onsite-_01866424-1",
-    "updated_at": "2026-10-21T07:36:32.003890+00:00",
+    "updated_at": "2026-10-21T13:46:01.018849+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -413,7 +457,7 @@
     "title": "Systems Engineering Intern 2027 - Onsite",
     "location": "US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Systems-Engineering-Intern-2027---Onsite_01878041",
-    "updated_at": "2026-10-21T07:36:33.311374+00:00",
+    "updated_at": "2026-10-21T13:46:02.406221+00:00",
     "department": "",
     "category": "mechanical"
   },
@@ -424,7 +468,7 @@
     "title": "WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only)",
     "location": "2 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31766",
-    "updated_at": "2026-10-21T07:36:37.631113+00:00",
+    "updated_at": "2026-10-21T13:46:05.510323+00:00",
     "department": "",
     "category": "civil"
   },
@@ -435,7 +479,7 @@
     "title": "Civil Engineering Intern (Summer 2027)",
     "location": "3 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/Civil-Engineering-Intern--Summer-2027-_R-31768-1",
-    "updated_at": "2026-10-21T07:36:37.631139+00:00",
+    "updated_at": "2026-10-21T13:46:05.510349+00:00",
     "department": "",
     "category": "civil"
   },
@@ -446,7 +490,7 @@
     "title": "Returning Intern Engineer - Summer 2027 (For current/former HNTB Interns Only)",
     "location": "4 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Tampa-FL/Returning-Intern-Engineer---Summer-2027_R-31431-2",
-    "updated_at": "2026-10-21T07:36:37.631187+00:00",
+    "updated_at": "2026-10-21T13:46:05.510422+00:00",
     "department": "",
     "category": "civil"
   },
@@ -457,7 +501,7 @@
     "title": "Intern Engineer - Summer 2027 - Central Division (For Current/Former HNTB Interns Only)",
     "location": "17 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Dallas-TX/Intern-Engineer---Summer-2027---Central-Division--For-Current-Former-HNTB-Interns-Only-_R-30882-1",
-    "updated_at": "2026-10-21T07:36:37.631200+00:00",
+    "updated_at": "2026-10-21T13:46:05.510436+00:00",
     "department": "",
     "category": "civil"
   },
@@ -468,7 +512,7 @@
     "title": "Returning Intern Engineer - NED Summer 2027 (For Current/Former HNTB Interns Only)",
     "location": "11 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Boston-MA/Returning-Intern-Engineer---NED-Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31039-1",
-    "updated_at": "2026-10-21T07:36:37.631211+00:00",
+    "updated_at": "2026-10-21T13:46:05.510446+00:00",
     "department": "",
     "category": "civil"
   },
@@ -479,7 +523,7 @@
     "title": "WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only)",
     "location": "Bellevue, WA (Seattle)",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Bellevue-WA-Seattle/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31037",
-    "updated_at": "2026-10-21T07:36:39.136460+00:00",
+    "updated_at": "2026-10-21T13:46:07.066759+00:00",
     "department": "",
     "category": "civil"
   },
@@ -490,7 +534,7 @@
     "title": "Returning Intern Construction Services- Central Division- For Current/Former HNTB Interns Only",
     "location": "15 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Dallas-TX/Returning-Intern-Construction-Services--Central-Division--For-Current-Former-HNTB-Interns-Only_R-31253-1",
-    "updated_at": "2026-10-21T07:36:39.136487+00:00",
+    "updated_at": "2026-10-21T13:46:07.066783+00:00",
     "department": "",
     "category": "civil"
   },
@@ -501,7 +545,7 @@
     "title": "WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only)",
     "location": "Salt Lake City, UT",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Salt-Lake-City-UT/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31435",
-    "updated_at": "2026-10-21T07:36:39.136526+00:00",
+    "updated_at": "2026-10-21T13:46:07.066824+00:00",
     "department": "",
     "category": "civil"
   },
@@ -512,7 +556,7 @@
     "title": "Returning Toll Technology Intern - Summer 2027 (For Current/Former HNTB Interns Only)",
     "location": "Raleigh, NC",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Raleigh-NC/Returning-Toll-Technology-Intern---Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31560-1",
-    "updated_at": "2026-10-21T07:36:39.136537+00:00",
+    "updated_at": "2026-10-21T13:46:07.066835+00:00",
     "department": "",
     "category": "civil"
   },
@@ -523,7 +567,7 @@
     "title": "Returning Intern Engineer  - Summer 2027 (Southeast Division) (For Current/Previous HNTB Interns ONLY)",
     "location": "10 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Atlanta-GA/Returning-Intern-Engineer----Summer-2027--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-30930-1",
-    "updated_at": "2026-10-21T07:36:39.136549+00:00",
+    "updated_at": "2026-10-21T13:46:07.066847+00:00",
     "department": "",
     "category": "civil"
   },
@@ -534,7 +578,7 @@
     "title": "Strategic Technology Intern \u2013 Summer 2027- SED Division (For Current/Former HNTB Interns Only)",
     "location": "2 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1",
-    "updated_at": "2026-10-21T07:36:39.136610+00:00",
+    "updated_at": "2026-10-21T13:46:07.066917+00:00",
     "department": "",
     "category": "civil"
   },
@@ -545,7 +589,7 @@
     "title": "Returning Construction Services Intern - MAD Summer 2027 (For current/previous HNTB interns only)",
     "location": "13 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Philadelphia-PA-Pennsylvania/Returning-Construction-Services-Intern---MAD-Summer-2027--For-current-previous-HNTB-interns-only-_R-31135-1",
-    "updated_at": "2026-10-21T07:36:39.136618+00:00",
+    "updated_at": "2026-10-21T13:46:07.066927+00:00",
     "department": "",
     "category": "civil"
   },
@@ -556,7 +600,7 @@
     "title": "WED - Intern Electrical Power System (Summer 2027) (For Current & Recent HNTB Interns Only)",
     "location": "Los Angeles, CA (Figueroa Street)",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/WED---Intern-Electrical-Power-System--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31767-1",
-    "updated_at": "2026-10-21T07:36:39.136627+00:00",
+    "updated_at": "2026-10-21T13:46:07.066937+00:00",
     "department": "",
     "category": "civil"
   },
@@ -567,7 +611,7 @@
     "title": "Returning Intern Engineer - Summer 2027 - Great Lakes Division (For Current/Former HNTB Interns Only)",
     "location": "18 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Milwaukee-WI-East-Wisconsin-Avenue/Returning-Intern-Engineer---Summer-2026---Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only-_R-30877-1",
-    "updated_at": "2026-10-21T07:36:39.136635+00:00",
+    "updated_at": "2026-10-21T13:46:07.066947+00:00",
     "department": "",
     "category": "civil"
   },
@@ -578,7 +622,7 @@
     "title": "Returning Intern Engineer - Summer 2027 - Mid Atlantic Division (For Current/Former HNTB Interns Only)",
     "location": "12 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Philadelphia-PA-Pennsylvania/Returning-Intern-Engineer---Summer-2027---Mid-Atlantic-Division--For-Current-Former-HNTB-Interns-Only-_R-31026-1",
-    "updated_at": "2026-10-21T07:36:39.136643+00:00",
+    "updated_at": "2026-10-21T13:46:07.066957+00:00",
     "department": "",
     "category": "civil"
   },
@@ -589,7 +633,7 @@
     "title": "Intern Engineer - Summer 2027",
     "location": "Minneapolis, MN",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Minneapolis-MN/Intern-Engineer---Summer-2027_R-31319-1",
-    "updated_at": "2026-10-21T07:36:39.136673+00:00",
+    "updated_at": "2026-10-21T13:46:07.066994+00:00",
     "department": "",
     "category": "civil"
   },
@@ -600,7 +644,7 @@
     "title": "Intern Engineer - Summer 2027",
     "location": "3 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Columbus-OH/Intern-Engineer---Summer-2027_R-31318-1",
-    "updated_at": "2026-10-21T07:36:39.136678+00:00",
+    "updated_at": "2026-10-21T13:46:07.067000+00:00",
     "department": "",
     "category": "civil"
   },
@@ -611,7 +655,7 @@
     "title": "Intern Engineer - Summer 2027",
     "location": "Chicago, IL",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Chicago-IL/Intern-Engineer---Summer-2027_R-31344-1",
-    "updated_at": "2026-10-21T07:36:39.136683+00:00",
+    "updated_at": "2026-10-21T13:46:07.067006+00:00",
     "department": "",
     "category": "civil"
   },
@@ -622,7 +666,7 @@
     "title": "Intern Engineer - Summer 2027",
     "location": "6 Locations",
     "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Kansas-City-MO/Intern-Engineer---Summer-2027_R-31346-1",
-    "updated_at": "2026-10-21T07:36:39.136688+00:00",
+    "updated_at": "2026-10-21T13:46:07.067012+00:00",
     "department": "",
     "category": "civil"
   },
@@ -633,7 +677,7 @@
     "title": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference\u202f",
     "location": "20 Locations",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
-    "updated_at": "2026-10-21T07:36:43.020240+00:00",
+    "updated_at": "2026-10-21T13:46:10.828454+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -644,7 +688,7 @@
     "title": "Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention",
     "location": "15 Locations",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
-    "updated_at": "2026-10-21T07:36:43.020262+00:00",
+    "updated_at": "2026-10-21T13:46:12.892938+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -655,7 +699,7 @@
     "title": "R&D Intern: Tech",
     "location": "Shanghai, Shanghai, China",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/R-D-Intern--Tech_R70374-2",
-    "updated_at": "2026-10-21T07:36:47.089655+00:00",
+    "updated_at": "2026-10-21T13:46:12.892983+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -666,7 +710,7 @@
     "title": "Mechanical Engineering Intern",
     "location": "Redmond, Washington",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728",
-    "updated_at": "2026-10-21T07:36:49.818764+00:00",
+    "updated_at": "2026-10-21T13:46:15.875424+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -677,7 +721,7 @@
     "title": "Quality Engineering Intern",
     "location": "Flower Mound, Texas",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886",
-    "updated_at": "2026-10-21T07:36:49.818783+00:00",
+    "updated_at": "2026-10-21T13:46:15.875444+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -688,7 +732,7 @@
     "title": "Manufacturing Engineering Intern",
     "location": "Redmond, Washington",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846",
-    "updated_at": "2026-10-21T07:36:49.818790+00:00",
+    "updated_at": "2026-10-21T13:46:15.875450+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -699,7 +743,7 @@
     "title": "Manufacturing Engineering Intern",
     "location": "Cary, Illinois",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922",
-    "updated_at": "2026-10-21T07:36:49.818795+00:00",
+    "updated_at": "2026-10-21T13:46:15.875454+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -710,7 +754,7 @@
     "title": "Mechanical Engineering Intern",
     "location": "Massachusetts, Virtual Address",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1",
-    "updated_at": "2026-10-21T07:36:49.818800+00:00",
+    "updated_at": "2026-10-21T13:46:15.875459+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -721,7 +765,7 @@
     "title": "Packaging Engineering Intern",
     "location": "Tempe, Arizona",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830",
-    "updated_at": "2026-10-21T07:36:49.818808+00:00",
+    "updated_at": "2026-10-21T13:46:15.875465+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -732,7 +776,7 @@
     "title": "R&D Intern",
     "location": "Fremont, California",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/R-D-Intern_R572862",
-    "updated_at": "2026-10-21T07:36:49.818813+00:00",
+    "updated_at": "2026-10-21T13:46:15.875469+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -743,7 +787,7 @@
     "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
     "location": "Arlington, Tennessee",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936",
-    "updated_at": "2026-10-21T07:36:49.818853+00:00",
+    "updated_at": "2026-10-21T13:46:15.875502+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -754,7 +798,7 @@
     "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
     "location": "Arlington, Tennessee",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937",
-    "updated_at": "2026-10-21T07:36:49.818861+00:00",
+    "updated_at": "2026-10-21T13:46:15.875513+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -765,7 +809,7 @@
     "title": "R&D Operations Intern",
     "location": "Salt Lake City, Utah",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768",
-    "updated_at": "2026-10-21T07:36:49.818878+00:00",
+    "updated_at": "2026-10-21T13:46:15.875530+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -776,7 +820,7 @@
     "title": "Engineering Intern, Product Quality",
     "location": "Tempe, Arizona",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940",
-    "updated_at": "2026-10-21T07:36:51.532322+00:00",
+    "updated_at": "2026-10-21T13:46:17.659795+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -787,7 +831,7 @@
     "title": "Post Market Quality Engineering Intern",
     "location": "Redmond, Washington",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
-    "updated_at": "2026-10-21T07:36:51.532359+00:00",
+    "updated_at": "2026-10-21T13:46:17.659843+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -798,7 +842,7 @@
     "title": "Summer 2027 Internship - Industrial Design Intern - Michigan",
     "location": "Portage, Michigan",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730",
-    "updated_at": "2026-10-21T07:36:51.532437+00:00",
+    "updated_at": "2026-10-21T13:46:17.659894+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -809,7 +853,7 @@
     "title": "2027 Summer Intern - R&D Process & Technology Development",
     "location": "Salt Lake City, Utah",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/XMLNAME-2027-Summer-Intern---R-D-Process---Technology-Development_R572905",
-    "updated_at": "2026-10-21T07:36:51.532456+00:00",
+    "updated_at": "2026-10-21T13:46:17.659906+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -820,7 +864,7 @@
     "title": "Summer 2027 Intern - Industrial Design, User Experience - Michigan",
     "location": "Portage, Michigan",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833",
-    "updated_at": "2026-10-21T07:36:51.532468+00:00",
+    "updated_at": "2026-10-21T13:46:17.659918+00:00",
     "department": "",
     "category": "biotech"
   },
@@ -831,7 +875,7 @@
     "title": "Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe",
     "location": "Tempe, Arizona",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881",
-    "updated_at": "2026-10-21T07:36:51.532522+00:00",
+    "updated_at": "2026-10-21T13:46:17.659979+00:00",
     "department": "",
     "category": "biotech"
   }
