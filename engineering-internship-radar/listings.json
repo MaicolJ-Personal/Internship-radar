@@ -1,1 +1,233 @@
-[]
+[
+  {
+    "id": "workday:hntb:/job/Los-Angeles-CA-Figueroa-Street/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31766",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only)",
+    "location": "2 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31766",
+    "updated_at": "2026-11-28T10:21:29.854198+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Los-Angeles-CA-Figueroa-Street/Civil-Engineering-Intern--Summer-2027-_R-31768-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Civil Engineering Intern (Summer 2027)",
+    "location": "3 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/Civil-Engineering-Intern--Summer-2027-_R-31768-1",
+    "updated_at": "2026-11-28T10:21:29.854224+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Tampa-FL/Returning-Intern-Engineer---Summer-2027_R-31431-2",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Returning Intern Engineer - Summer 2027 (For current/former HNTB Interns Only)",
+    "location": "4 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Tampa-FL/Returning-Intern-Engineer---Summer-2027_R-31431-2",
+    "updated_at": "2026-11-28T10:21:29.854258+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Dallas-TX/Intern-Engineer---Summer-2027---Central-Division--For-Current-Former-HNTB-Interns-Only-_R-30882-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Intern Engineer - Summer 2027 - Central Division (For Current/Former HNTB Interns Only)",
+    "location": "17 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Dallas-TX/Intern-Engineer---Summer-2027---Central-Division--For-Current-Former-HNTB-Interns-Only-_R-30882-1",
+    "updated_at": "2026-11-28T10:21:29.854264+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Boston-MA/Returning-Intern-Engineer---NED-Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31039-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Returning Intern Engineer - NED Summer 2027 (For Current/Former HNTB Interns Only)",
+    "location": "11 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Boston-MA/Returning-Intern-Engineer---NED-Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31039-1",
+    "updated_at": "2026-11-28T10:21:29.854270+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Bellevue-WA-Seattle/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31037",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only)",
+    "location": "Bellevue, WA (Seattle)",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Bellevue-WA-Seattle/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31037",
+    "updated_at": "2026-11-28T10:21:29.854276+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Dallas-TX/Returning-Intern-Construction-Services--Central-Division--For-Current-Former-HNTB-Interns-Only_R-31253-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Returning Intern Construction Services- Central Division- For Current/Former HNTB Interns Only",
+    "location": "15 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Dallas-TX/Returning-Intern-Construction-Services--Central-Division--For-Current-Former-HNTB-Interns-Only_R-31253-1",
+    "updated_at": "2026-11-28T10:21:31.608454+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Salt-Lake-City-UT/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31435",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only)",
+    "location": "Salt Lake City, UT",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Salt-Lake-City-UT/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31435",
+    "updated_at": "2026-11-28T10:21:31.608493+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Raleigh-NC/Returning-Toll-Technology-Intern---Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31560-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Returning Toll Technology Intern - Summer 2027 (For Current/Former HNTB Interns Only)",
+    "location": "Raleigh, NC",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Raleigh-NC/Returning-Toll-Technology-Intern---Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31560-1",
+    "updated_at": "2026-11-28T10:21:31.608501+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Atlanta-GA/Returning-Intern-Engineer----Summer-2027--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-30930-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Returning Intern Engineer  - Summer 2027 (Southeast Division) (For Current/Previous HNTB Interns ONLY)",
+    "location": "10 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Atlanta-GA/Returning-Intern-Engineer----Summer-2027--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-30930-1",
+    "updated_at": "2026-11-28T10:21:31.608508+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Strategic Technology Intern \u2013 Summer 2027- SED Division (For Current/Former HNTB Interns Only)",
+    "location": "2 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1",
+    "updated_at": "2026-11-28T10:21:31.608534+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Philadelphia-PA-Pennsylvania/Returning-Construction-Services-Intern---MAD-Summer-2027--For-current-previous-HNTB-interns-only-_R-31135-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Returning Construction Services Intern - MAD Summer 2027 (For current/previous HNTB interns only)",
+    "location": "13 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Philadelphia-PA-Pennsylvania/Returning-Construction-Services-Intern---MAD-Summer-2027--For-current-previous-HNTB-interns-only-_R-31135-1",
+    "updated_at": "2026-11-28T10:21:31.608540+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Los-Angeles-CA-Figueroa-Street/WED---Intern-Electrical-Power-System--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31767-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "WED - Intern Electrical Power System (Summer 2027) (For Current & Recent HNTB Interns Only)",
+    "location": "Los Angeles, CA (Figueroa Street)",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/WED---Intern-Electrical-Power-System--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31767-1",
+    "updated_at": "2026-11-28T10:21:31.608547+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Minneapolis-MN/Intern-Engineer---Summer-2027_R-31319-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Intern Engineer - Summer 2027",
+    "location": "Minneapolis, MN",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Minneapolis-MN/Intern-Engineer---Summer-2027_R-31319-1",
+    "updated_at": "2026-11-28T10:21:31.608551+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Columbus-OH/Intern-Engineer---Summer-2027_R-31318-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Intern Engineer - Summer 2027",
+    "location": "3 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Columbus-OH/Intern-Engineer---Summer-2027_R-31318-1",
+    "updated_at": "2026-11-28T10:21:31.608571+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Chicago-IL/Intern-Engineer---Summer-2027_R-31344-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Intern Engineer - Summer 2027",
+    "location": "Chicago, IL",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Chicago-IL/Intern-Engineer---Summer-2027_R-31344-1",
+    "updated_at": "2026-11-28T10:21:31.608575+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Kansas-City-MO/Intern-Engineer---Summer-2027_R-31346-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Intern Engineer - Summer 2027",
+    "location": "6 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Kansas-City-MO/Intern-Engineer---Summer-2027_R-31346-1",
+    "updated_at": "2026-11-28T10:21:31.608579+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Detroit-MI/Intern-Engineer---Summer-2027_R-31371-2",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Intern Engineer - Summer 2027",
+    "location": "6 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Detroit-MI/Intern-Engineer---Summer-2027_R-31371-2",
+    "updated_at": "2026-11-28T10:21:31.608601+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Indianapolis-IN/Intern-Engineer---Summer-2027_R-31386-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Intern Engineer - Summer 2027",
+    "location": "Indianapolis, IN",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Indianapolis-IN/Intern-Engineer---Summer-2027_R-31386-1",
+    "updated_at": "2026-11-28T10:21:31.608605+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Tampa-FL/Intern-Engineer---Summer-2027_R-31405-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Intern Engineer - Summer 2027",
+    "location": "4 Locations",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Tampa-FL/Intern-Engineer---Summer-2027_R-31405-1",
+    "updated_at": "2026-11-28T10:21:31.608609+00:00",
+    "department": "",
+    "category": "civil"
+  },
+  {
+    "id": "workday:hntb:/job/Chicago-IL/Technology-Intern---Summer-2027_R-31400-1",
+    "source": "workday",
+    "company": "HNTB",
+    "title": "Technology Intern - Summer 2027",
+    "location": "Chicago, IL",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Chicago-IL/Technology-Intern---Summer-2027_R-31400-1",
+    "updated_at": "2026-11-28T10:21:31.608612+00:00",
+    "department": "",
+    "category": "civil"
+  }
+]
